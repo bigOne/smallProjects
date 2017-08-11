@@ -1,0 +1,2 @@
+# smallProjects
+for small projeccts
